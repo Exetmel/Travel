@@ -50,13 +50,15 @@
 
 <!-- home section starts -->
 
+
+
 <section class="home">
 
-    <div class="home slider">
+    <div class="swiper home-slider">
 
-        <div class="w">
+        <div class="swiper-wrapper">
 
-            <div class="slide" style="background:url(images/p-1.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(images/p-1.jpg) no-repeat">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3> travel around the philippines</h3>
@@ -64,7 +66,7 @@
                 </div>              
             </div>
 
-            <div class="slide" style="background:url(images/p-2.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(images/p-2.jpg) no-repeat">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3> discover the beaches </h3>
@@ -72,16 +74,20 @@
                 </div>              
             </div>
 
-            <div class="slide" style="background:url(images/p-3.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(images/p-3.jpg) no-repeat">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3> make your tour worthwhile</h3>
                     <a href="package.php" class="btn">discover more</a>  
-                </div>              
+                </div>  
+                            
             </div>
-
+            
         </div>
-
+        <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+        
     </div>
 
 
