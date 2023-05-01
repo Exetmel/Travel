@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
 :root{
-    --main-color:#ff6600;
+    --main-color:#FF9D0B;
     --black:#222;
     --white:#fff;
     --light-black:#777;
@@ -227,7 +227,7 @@ padding: 1rem 0;
 }
 
 .footer .box-container .box a{
-    color:var(---light-white);
+    color:var(--light-white);
     font-size: 1.5rem;
     padding-bottom: 1rem;
     display: block;
@@ -241,7 +241,6 @@ padding: 1rem 0;
 
 .footer .box-container .box a:hover i{
     padding-right: 2rem;
-    color: var(--main-color);
 }
 
 .footer .credit{
