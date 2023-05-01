@@ -63,7 +63,7 @@
                     <span>explore, discover, travel</span>
                     <h3> travel around the philippines</h3>
                     <a href="package.php" class="btn">discover more</a>  
-                </div>              
+                </div>            
             </div>
 
             <div class="swiper-slide slide" style="background:url(images/p-2.jpg) no-repeat">
