@@ -58,7 +58,7 @@
 
         <div class="swiper-wrapper">
 
-            <div class="swiper-slide slide" style="background:url(images/p-1.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(images/p-8.jpg) no-repeat">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3> travel around the philippines</h3>
@@ -66,7 +66,7 @@
                 </div>            
             </div>
 
-            <div class="swiper-slide slide" style="background:url(images/p-2.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(images/p-9.jpg) no-repeat">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3> discover the beaches </h3>
@@ -74,7 +74,7 @@
                 </div>              
             </div>
 
-            <div class="swiper-slide slide" style="background:url(images/p-3.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(images/p-10.jpg) no-repeat">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3> make your tour worthwhile</h3>
@@ -158,6 +158,64 @@
 
 
 <!-- service section ends -->
+
+<!-- home about section starts here -->
+
+<section class="home-about">
+
+<div class="image">
+    <img src="images/book-img.svg" alt="">
+
+</div>
+
+<div class="content">
+<h3>about us</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi
+quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis,
+provident voluptate?</p>
+<a href="about.php" class="btn">read more</a>
+
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+<!-- home section about section ends here  -->
+
+
+
+
+
+
+<!-- home package section starts  -->
+
+
+<section class="home-packages">
+    <h1 class="heading"> our packages </h1>
+
+        <div class="box-container">
+            <div class="box">
+                <img src="" alt="">
+            </div>
+        </div>
+
+</section>
+
+
+
+
+
+
+
+
+<!-- home package section ends  -->
+
 
 
 
