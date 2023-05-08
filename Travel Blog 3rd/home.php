@@ -163,19 +163,19 @@
 
 <section class="home-about">
 
-<div class="image">
-    <img src="images/book-img.svg" alt="">
+    <div class="image">
+        <img src="images/book-img.svg" alt="">
 
-</div>
+    </div>
 
-<div class="content">
-<h3>about us</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi
-quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis,
-provident voluptate?</p>
-<a href="about.php" class="btn">read more</a>
+    <div class="content">
+        <h3>about us</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi
+        quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis,
+        provident voluptate?</p>
+        <a href="about.php" class="btn">read more</a>
 
-</div>
+    </div>
 
 </section>
 
@@ -197,15 +197,56 @@ provident voluptate?</p>
 
 
 <section class="home-packages">
-    <h1 class="heading"> our packages </h1>
 
-        <div class="box-container">
-            <div class="box">
-                <img src="" alt="">
-            </div>
+    <h1 class="heading-title"> our packages </h1>
+
+    <div class="box-container">
+
+        <div class="box">
+                <div class="images">
+                    <img src="images/g-7.jpg" alt="">
+                </div>
+
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.  Qui vitae reiciendis atque quis exercitationem et suscipit esse earum voluptas.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+
         </div>
 
+        <div class="box">
+                <div class="images">
+                    <img src="images/p-2.jpg" alt="">
+                </div>
+
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.  Qui vitae reiciendis atque quis exercitationem et suscipit esse earum voluptas.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+
+        </div>
+
+        <div class="box">
+                <div class="images">
+                    <img src="images/g-7.jpg" alt="">
+                </div>
+
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.  Qui vitae reiciendis atque quis exercitationem et suscipit esse earum voluptas.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+
+        </div>
+    </div>
+        
+
+    <div class="load-more"><a href="package.php" class="btn">load more</a></div>
+
 </section>
+
 
 
 
