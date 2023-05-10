@@ -240,6 +240,19 @@
                 </div>
 
         </div>
+
+        <div class="box">
+                <div class="images">
+                    <img src="images/g-7.jpg" alt="">
+                </div>
+
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.  Qui vitae reiciendis atque quis exercitationem et suscipit esse earum voluptas.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+
+        </div>
     </div>
         
 

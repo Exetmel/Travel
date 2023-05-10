@@ -103,6 +103,98 @@
                 <a href="book.php" class="btn">book now</a>
             </div>
             </div>
+
+            
+            <div class="box">
+            <div class="images">
+                <img src="images/p-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+
+            <div class="box">
+            <div class="images">
+                <img src="images/p-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+
+            <div class="box">
+            <div class="images">
+                <img src="images/p-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+
+            <div class="box">
+            <div class="images">
+                <img src="images/p-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+
+            <div class="box">
+            <div class="images">
+                <img src="images/p-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+
+            <div class="box">
+            <div class="images">
+                <img src="images/p-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+
+            
+            <div class="box">
+            <div class="images">
+                <img src="images/p-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+
+            
+            <div class="box">
+            <div class="images">
+                <img src="images/p-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+            
             
     </div>
     <div class="load-more"><span class="btn">load more</span></div>

@@ -201,9 +201,21 @@ section{
 
 } 
 
+.packages .box-container .box:hover .images img{
+    transform: scale(1.1);
+}
 .packages .box-container .box{
     box-shadow: var(--box-shadow);
     background: var(--white);
+    display: none; 
+}
+
+.packages .box-container .box:nth-child(1),
+.packages .box-container .box:nth-child(2),
+.packages .box-container .box:nth-child(3),
+.packages .box-container .box:nth-child(4)
+{
+    display: inline-block;
 }
 
 .packages .box-container .box .images{
@@ -215,7 +227,7 @@ section{
     height: 100%;
     width: 100%;
     object-fit: cover;
-    transition: 2s linear;
+    transition: .2s linear;
 } 
 
 .packages .box-container .box .content{
@@ -240,13 +252,35 @@ section{
 
 .packages .load-more {
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 4rem;
 }
 
 
 
 
 /* packages ends  */
+
+
+
+/* booking php starts */
+
+.booking .book-form{
+    padding: 2rem;
+    background: var(--light-bg);
+}
+
+.booking .book-form .flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+
+
+
+
+/* booking php ends */
+
 
 .btn{
 display: inline-block;
@@ -405,6 +439,7 @@ animation:fadeIn .4s linear backwards .4s;
 
 /* home about start */
 
+
 .home-about{
     display: flex;
     align-items: center;
@@ -459,11 +494,15 @@ animation:fadeIn .4s linear backwards .4s;
     overflow: hidden;
 }
 
+.home-packages .box-container .box:hover .images img{
+    transform: scale(1.1);
+}
+
 .home-packages .box-container .box .images img{
     height: 100%;
     width: 100%;
     object-fit: cover;
-    transition: 2s linear;
+    transition: .2s linear;
 } 
 
 .home-packages .box-container .box .content{
