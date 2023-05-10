@@ -54,11 +54,14 @@
 
 <section class="about">
     <div class="images">
-        <img src="images/g-2.jpg" alt="">
+        <img src="images/about.png" alt="">
     </div>
     <div class="content">
         <h3>why choose us?</h3>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim placeat eligendi praesentium accusantium hic tempora!</p>
+        <p>Are you looking for a fresh and exciting way to experience the beauty of nature? Look no further! Here at this site,
+             we believe in the power of making each outdoor adventure feel like the first time. We know your time is precious,
+              and that's why we've designed our experiences to be efficient yet immersive. Our unique approach ensures that you'll enjoy every moment spent in nature without feeling rushed or overwhelmed.
+              So, don't miss out on this opportunity to embark on a journey that will leave you feeling refreshed and reconnected to the world around you.</p>
         <div class="icons-container">
             <div class="icons">
                 <i class = "fas fa-map"></i>
@@ -79,7 +82,86 @@
 
 
 <!-- about section ends here  -->
+<!-- review section starts  -->
 
+<section class="reviews">
+    <div class="swiper reviews-slider">
+
+        <div class="swiper-wrapper">
+            <div class="swiper-slide slide">
+                <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                </div>
+
+                
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos obcaecati corporis ipsa ea nisi ex assumenda, non in laudantium voluptate?</p>
+                <h3>Jessa chris</h3>
+                <span>traveler</span>
+                <img src="images/pic1.png" alt="">
+            </div>
+
+            <div class="swiper-slide slide">
+                <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                </div>
+
+                
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos obcaecati corporis ipsa ea nisi ex assumenda, non in laudantium voluptate?</p>
+                <h3>jason samuel</h3>
+                <span>traveler</span>
+                <img src="images/pic2.png" alt="">
+            </div>
+
+            <div class="swiper-slide slide">
+                <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                </div>
+
+                
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos obcaecati corporis ipsa ea nisi ex assumenda, non in laudantium voluptate?</p>
+                <h3>shaina sam</h3>
+                <span>traveler</span>
+                <img src="images/pic3.png" alt="">
+
+            </div>
+            
+            <div class="swiper-slide slide">
+                <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                </div>
+                
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos obcaecati corporis ipsa ea nisi ex assumenda, non in laudantium voluptate?</p>
+                <h3>jake bam borja</h3>
+                <span>traveler</span>
+                <img src="images/pic4.png" alt="">
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- review section ends  -->
 
 
 
