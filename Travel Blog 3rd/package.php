@@ -45,10 +45,73 @@
 
 <!-- header section ends --> 
 
-<div class="heading" style="background:url(/images/g-3.jpg) no-repeat">
+<div class="heading" style="background:url(images/packages-cover.jpg) no-repeat">
 <h1>packages</h1>
 
 </div>
+
+
+<!-- package section starts  -->
+
+<section class="packages">
+    <h1 class="heading-title">top destinations</h1>
+
+    <div class="box-container">
+        <div class="box">
+            <div class="images">
+                <img src="images/g-7.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+            
+
+            <div class="box">
+            <div class="images">
+                <img src="images/g-6.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+            
+
+            <div class="box">
+            <div class="images">
+                <img src="images/g-4.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+            
+
+            <div class="box">
+            <div class="images">
+                <img src="images/p-2.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi eos quod ipsa ipsam tempore alias autem illum deleniti nesciunt.</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+            </div>
+            
+    </div>
+    <div class="load-more"><span class="btn">load more</span></div>
+
+</section>
+
+
+
+<!-- package section starts  -->
 
 
 
