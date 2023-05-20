@@ -502,6 +502,7 @@ animation:fadeIn .4s linear backwards .4s;
     padding: 1rem 0;
     line-height: 2;
     color: var(--black);
+    text-transform: initial;
 }
 
 .home-packages{

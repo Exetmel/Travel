@@ -170,9 +170,9 @@
 
     <div class="content">
         <h3>about us</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi
-        quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis,
-        provident voluptate?</p>
+        <p>We understand how much you value your time, and that's why we're committed to offering the best quality places for you to spend it. Our team carefully selects and curates top-notch spots that not only meet your expectations but also create memorable experiences.
+
+No more wasting time on disappointing venues - let us help you make every moment count. Give us a try and see the difference for yourself!</p>
         <a href="about.php" class="btn">read more</a>
 
     </div>
@@ -218,19 +218,6 @@
         <div class="box">
                 <div class="images">
                     <img src="images/p-2.jpg" alt="">
-                </div>
-
-                <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.  Qui vitae reiciendis atque quis exercitationem et suscipit esse earum voluptas.</p>
-                    <a href="book.php" class="btn">book now</a>
-                </div>
-
-        </div>
-
-        <div class="box">
-                <div class="images">
-                    <img src="images/g-7.jpg" alt="">
                 </div>
 
                 <div class="content">
