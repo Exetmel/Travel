@@ -1,9 +1,9 @@
 #TRAVEL BLOG
 
 TEAM 
-  Mel kenneth Excalmador
-  Chistian Kent Gucela
-  Fredrick Ramirez
+  -Mel kenneth Excalmador
+  -Chistian Kent Gucela
+  -Fredrick Ramirez
 
 
 
