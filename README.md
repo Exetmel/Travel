@@ -42,7 +42,7 @@ Database Setup
 
 xampp download
 1. go to this link: https://www.apachefriends.org/download.html
-2. choose 8.0.28 / PHP 8.0.28 64bit
+2. choose 8.0.28 / PHP 8.0.28 64bit and DOWNLOAD
 3. open the setup
 4. install
           
